@@ -62,7 +62,7 @@
             android:layout_width="wrap_content"
             android:layout_height="49dp"
             android:text="Taza Pequeña"
-            android:id="@+id/radioButton"
+            android:id="@+id/radioTazaPequeña"
             android:layout_gravity="center_horizontal"
             android:checked="true"
             android:gravity="center" />
@@ -71,7 +71,7 @@
             android:layout_width="wrap_content"
             android:layout_height="43dp"
             android:text="Taza Grande"
-            android:id="@+id/radioButton2"
+            android:id="@+id/radioTazaGrande"
             android:layout_gravity="center_horizontal"
             android:checked="false" />
     </RadioGroup>
