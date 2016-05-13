@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Café Kinal</string>+
+    <string name="tazas">Ingrese número de tazas a ordenar:</string>
+    <string name="hint">Número tazas...</string>
+</resources>
